@@ -1,0 +1,42 @@
+p
+{
+    color: black ;
+    text-align: center;
+    padding: 12px;
+}
+
+html, body {
+	height: 100%;
+	margin: 0; padding: 0;
+}
+
+header
+{
+	color: white; 
+	text-align: center;
+    background-color: blue;
+    height: 20px;
+    margin: auto; 
+    font-weight:bold; 
+    vertical-align: middle;
+	
+}
+body {
+	display : table;
+	width: 100%;
+}
+footer {
+	position:absolute;
+	bottom:0;
+	width:100%;
+	padding-top:50px;
+	height:50px 
+}
+
+
+h1
+{
+	text-align: center ;
+	padding: 30px;
+}
+
